@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welkom op mijn Data blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Op deze site is het alle dagen data!
